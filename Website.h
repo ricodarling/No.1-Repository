@@ -1,17 +1,10 @@
 
 <!DOCTYPE html>
 <html>
-<!--
-Created using JS Bin
-http://jsbin.com
 
-Copyright (c) 2022 by ricodarling (http://jsbin.com/xokogim/1/edit)
-
-Released under the MIT license: http://jsbin.mit-license.org
--->
 <meta name="robots" content="noindex">
   <head>
-    <title>Inter City Prayer Chain Co.</title>
+    <title>Inter City Co.</title>
   
 <style id="jsbin-css">
 * {box-sizing: border-box;}  
@@ -328,35 +321,17 @@ Released under the MIT license: http://jsbin.mit-license.org
   <a href=tel:"07588779657">Call Us</a>  
 
      </nav>
-     <h1>Inter City Prayer Chain Co.</h1>
-     <p>"God told Joshua that where ever the sole of his feet trod, he would posses. We have faith that as we travel and pray in agreement, we’re taking territories back for Christ, spreading the revival fire of the Holy Ghost and restoring unity in the body."</p>
-      <h2>Inter City Prayer Chain Co.</h2>
-      <h3>Inter City Prayer Chain Co.</h3>
-      <h4>Inter City Prayer Chain Co.</h4>
-      <h5>Inter City Prayer Chain Co.</h5>
-      <h6>Inter City Prayer Chain Co.</h6>
-      <h5>Inter City Prayer Chain Co.</h1>
-      <h4>Inter City Prayer Chain Co.</h4>
-          <h3>Inter City Prayer Chain Co.</h3>
-          <h2>Inter City Prayer Chain Co.</h2>
-          <h1>Inter City Prayer Chain Co.</h1>
-  <footer>
-    <p>©2018, Inter City Prayer Chain Co. All Rights reserved.</p>
-  </footer>
-<script src="https://static.jsbin.com/js/render/edit.js?4.1.8"></script>
-<script>jsbinShowEdit && jsbinShowEdit({"static":"https://static.jsbin.com","root":"https://jsbin.com"});</script>
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-1656750-34', 'auto');
-ga('require', 'linkid', 'linkid.js');
-ga('require', 'displayfeatures');
-ga('send', 'pageview');
-
-</script>
-
+     <h1>Inter City Co.</h1>
+      <h2>Inter City Co.</h2>
+      <h3>Inter City Co.</h3>
+      <h4>Inter City Co.</h4>
+      <h5>Inter City Co.</h5>
+      <h6>Inter City Co.</h6>
+      <h5>Inter City Co.</h1>
+      <h4>Inter City Co.</h4>
+          <h3>Inter City Co.</h3>
+          <h2>Inter City Co.</h2>
+          <h1>Inter City Co.</h1>
+ 
 </body>
 </html>
